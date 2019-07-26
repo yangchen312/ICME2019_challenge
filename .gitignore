@@ -1,0 +1,14 @@
+
+*.pyc
+*.__pycache__
+.DS_Store
+.idea
+
+*.pdf
+*.csv
+*.txt
+
+eda.py
+
+
+
